@@ -1,0 +1,14 @@
+<resources>
+    <string name="tfe_ic_app_name" translation_description="Image Classification demo app [CHAR_LIMIT=40]">あっぷっぷ！</string>
+    <string name="tfe_ic_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="tfe_ic_gpu_quant_error" translation_description="Error regarding GPU support for Quant models[CHAR_LIMIT=60]">GPU does not yet supported quantized models.</string>
+
+    <string name="alert_title">Warning</string>
+    <string name="alert_quit">終了</string>
+    <string name="alert_continue">続行</string>
+    <string name="alert_msg1">既に%1$d枚の画像を自動保存済みです。 続行しますか？</string>
+    <string name="alert_msg2">既に%1$d枚の画像を自動保存済みのため、アプリを終了します</string>
+
+    <string name="error_failed_to_save">画像の保存に失敗しました</string>
+
+</resources>
